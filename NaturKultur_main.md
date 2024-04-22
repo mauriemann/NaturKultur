@@ -71,19 +71,49 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 
 | Datum | Thema, Inhalt | Referat | Protokoll |
 |-------|---------------|---------|-----------|
-| 17\.04.2024 | Organisatorisches & Einführung: Vinciane Despret: Wie der Vogel wohnt (2022) | kein Referat | kein Protokoll |
-| 24\.04.2024 | Naturbegriff und Moderne - Bruno Latour: Kampf um Gaia (2017) | kein Referat | Protokoll: N.N. |
-| 01\.05.2024 | Keine Sitzung: Feiertag | kein Referat | kein Protokoll |
-| 08\.05.2024 | Geschichte(n) des Materialismus - Onlinesitzung mit Impuls-Vortrag und Kennenlernen der Prager Summerschool ‚Akutes Denken‘ | kein Referat | Silvo Kuhn |
-| 15\.05.2024 | Klimakrise und Naturbegriff Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022) | Lida Shekhzadeh, ...., | Cara Spitzer |
-| 22\.05.2024 | Ökologie und PraxisAnna L. Tsing: Der Pilz am anderen Ende der Welt (2019) | Enya Docter, Tim Kuhlmann | Lena Langmaack |
-| 29\.05.2024 | Natur, Technik & Feministische Wissenschaftskritik Donna J. Haraway: Unruhig Bleiben (2016 / 2018) | Adam Kosumov, ..... | Anna Block |
-| 05\.06.2024 | Natur, Technik & Feministische Wissenschaftskritik II Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017) | Luisa Kulawik, Anna Steinfatt | N.N. |
-| 12\.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie - Philippe Descola: Jenseits von Natur und Kultur (2005) | Lee Bölter, Paul Stein | Silas Henke |
-| 19\.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie II - Philippe Descola: Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen (2014) | Anna Nissen, Sophie Kühndahl | Erik Götsche |
-| 26\.06.2024 | Die Natur und „das Wilde“ I - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Jakob Wuhnsen, Jana Leifeling | Aaron Schneider |
-| 03\.07.2024 | Die Natur und „das Wilde“ II - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Miedia Sibari, (Marcel Krüger) | N.N. |
-| 10\.07.2024 | Abschlussdiskussion | kein Referat  | kein Protokoll |
+| 17.04.2024 | Organisatorisches & Einführung: Vinciane Despret: Wie der Vogel wohnt (2022) | kein Referat | kein Protokoll |
+| 24.04.2024 | Naturbegriff und Moderne - Bruno Latour: Kampf um Gaia (2017) | kein Referat | Protokoll: N.N. |
+| 01.05.2024 | Keine Sitzung: Feiertag | kein Referat | kein Protokoll |
+| 08.05.2024 | Geschichte(n) des Materialismus - Onlinesitzung mit Impuls-Vortrag und Kennenlernen der Prager Summerschool ‚Akutes Denken‘ | kein Referat | Silvo Kuhn |
+| 15.05.2024 | Klimakrise und Naturbegriff Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022) | Lida Shekhzadeh, ...., | Cara Spitzer |
+| 22.05.2024 | Ökologie und PraxisAnna L. Tsing: Der Pilz am anderen Ende der Welt (2019) | Enya Docter, Tim Kuhlmann | Lena Langmaack |
+| 29.05.2024 | Natur, Technik & Feministische Wissenschaftskritik Donna J. Haraway: Unruhig Bleiben (2016 / 2018) | Adam Kosumov, ..... | Anna Block |
+| 05.06.2024 | Natur, Technik & Feministische Wissenschaftskritik II Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017) | Luisa Kulawik, Anna Steinfatt | N.N. |
+| 12.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie - Philippe Descola: Jenseits von Natur und Kultur (2005) | Lee Bölter, Paul Stein | Silas Henke |
+| 19.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie II - Philippe Descola: Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen (2014) | Anna Nissen, Sophie Kühndahl | Erik Götsche |
+| 26.06.2024 | Die Natur und „das Wilde“ I - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Jakob Wuhnsen, Jana Leifeling | Aaron Schneider |
+| 03.07.2024 | Die Natur und „das Wilde“ II - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Miedia Sibari, (Marcel Krüger) | N.N. |
+| 10.07.2024 | Abschlussdiskussion | kein Referat  | kein Protokoll |
+
+
+## Literatur
+
+**Literaturverzeichnis der Seminarlektüre**
+
+* De Castro, Eduardo Viveiros (2016): Der Marmor und die Myrte. In: Die Unbeständigkeit der wilden Seele. Wien/Berlin: Turia+Kant, 161-231
+* Descola, Philippe (2013/2021): Jenseits von Natur und Kultur. 3. Aufl. Frankfurt a.M.: Suhrkamp 
+* Descola, Philippe (2014): Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen. In: ZMK Zeitschrift für Medien- und Kulturforschung. Synchronisation, Jg. 5, Nr. 2, 183– 207.
+* Despret, Vinciane (2022): Wie der Vogel wohnt. Berlin: Matthes & Seitz.
+* Haraway, Donna J. (1995/2017): Andersweltliche Konversationen; irdische Themen, lokale Begriffe. In: Ebd. Monströse Versprechen. Die Gender- und Technologie-Essays. Hamburg: Argument, 147-183
+* Haraway, Donna J. (2018): Unruhig bleiben. Die Verwandtschaft der Arten im Chthuluzän. Frankfurt/ New York: Campus
+* Latour, Bruno (2017). Kampf um Gaia. Acht Vorträge über das neue Klimaregime. Berlin: Suhrkamp
+* Latour, Bruno/Schultz, Nikolaj (2022): Zur Entstehung einer ökologischen Klasse: ein Memorandum. 2. Aufl. Frankfurt a.M.: Suhrkamp
+* Tsing, Anna L. (2020): Der Pilz am Ende der Welt: über das Leben in den Ruinen des Kapitalismus. 5. Aufl. Berlin: Matthes & Seitz
+
+**Literaturhinweise & Sekundärliteratur**
+
+* Bartz, Brigitte (2019): Longing for agency: New materialisms’ wrestling with despair. In: European Journal of Women's Studies. Vol. 26, Issue 2, 181-194
+* Hoppe, Katharina / Lemke, Thomas (2021): Neue Materialismen. Zur Einführung. Hamburg: Junius
+* Hoppe, Katharina (2017): Beings from the Mud. Donna Haraways Arbeiten zu einer relationalen Ontologie. Online abrufbar unter: https://soziopolis.de/beobachten/kultur/artikel/beings-from-the-mud/
+* Kauppert, Michael (2011): Philippe Descolas Anthropologie der Natur. In: Jahrbuch für europäische Ethnologie. Dritte Folge/6, 49-68
+* Schürkmann, Christiane (2024): Ökologien des Materiellen. Neomaterialistische und posthumanistische Zugänge. In: Handbuch Umweltsoziologie. 2. Aufl. Wiesbaden: Springer 
+* Schmitz, Sigrid (2016): Cyborgs, situiertes Wissen und das Chthulucene. In: Soziopolis-Gesellschaft beobachten. Online abrufbar unter: https://www.soziopolis.de/erinnern/klassiker/artikel/cyborgs-situiertes-wissen-und-das-chthulucene/
+* Folkers, Andreas (2013): Was ist neu am ‚Neuen Materialismus‘? In: Goll et al. (Hg.): Critical Matter. Diskussionen eines neuen Materialismus. Edition Assamblage, Münster, 16–33
+* Descola, Philippe et al (1996): Nature and Society. Anthropological perspectives. Routledge: London
+* Haraway, Donna (1995): ‚Wir sind immer mittendrin‘. Ein Interview mit Donna Haraway. In: Hammer/Stieß (Hrsg.): Die Neuerfindung der Natur. Primaten, Cyborgs und Frauen. Campus Verlag
+* Levi-Strauss, Claude (1975): Rosseau. Begründer der Wissenschaften vom Menschen. In: (ebd.) Strukturale Anthropologie. Frankfurt a.M.: Suhrkamp, 45-56
+* Precht, Oliver (2021): Weltverlust und Selbstbehauptung. Politische Ökologie und politische Philosophie bei Bruno Latour. In: Bertrams/Roselli (Hg.): Selbstverlust und Welterfahrung. Erkundungen eienr pathischen Moderne. Wien 2021. S. 69-89.
+
 
 
 
