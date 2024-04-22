@@ -72,7 +72,7 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 | Datum | Thema, Inhalt | Referat | Protokoll |
 |-------|---------------|---------|-----------|
 | 17\.04.2024 | Organisatorisches & Einführung: Vinciane Despret: Wie der Vogel wohnt (2022) | kein Referat | kein Protokoll |
-| 24\.04.2024 | Naturbegriff und ModerneBruno Latour: Kampf um Gaia (2017) | kein Referat | Protokoll: N.N. |
+| 24\.04.2024 | Naturbegriff und Moderne - Bruno Latour: Kampf um Gaia (2017) | kein Referat | Protokoll: N.N. |
 | 01\.05.2024 | Keine Sitzung: Feiertag | kein Referat | kein Protokoll |
 | 08\.05.2024 | Geschichte(n) des Materialismus - Onlinesitzung mit Impuls-Vortrag und Kennenlernen der Prager Summerschool ‚Akutes Denken‘ | kein Referat | Silvo Kuhn |
 | 15\.05.2024 | Klimakrise und Naturbegriff Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022) | Lida Shekhzadeh, ...., | Cara Spitzer |
@@ -87,30 +87,30 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 
 
 
-### Hinweise für das Verfassen von Sitzungsprotokollen
+## Hinweise für das Verfassen von Sitzungsprotokollen
 
-#### I. Grundformen und Funktionen
+### I. Grundformen und Funktionen
 
 1. Wortprotokoll, Verbalprotokoll – direkte Dokumentation des mündlichen Wortlauts z.B. bei Gerichtsverhandlungen
 2. Verlaufsprotokoll, Verhandlungsprotokoll – Protokoll des Gesprächsprozesses. Wie kam es zu Beschlüssen oder Ergebnissen? Wie lauteten die Argumente?
 3. Ergebnisprotokoll, Beschlussprotokoll – Fokus auf Ergebnisse. Keine Dokumentation des Gesprächsprozesses.
 4. Das wissenschaftliche Protokoll – Anteile des Verlauf- und Ergebnisprotokolls. Schriftliche und systematische Wiedergabe diskursiv erarbeiteten Wissens, die eine gemeinsame Wissensbasis schafft. Funktionen: Dokumentation und Aufbereitung des Wissens, Literaturgrundlage, Kontrolle des Wissensstandes, Üben wissenschaftlichen Formulierens
 
-#### II. (Sprachliche) Gestaltung
+### II. (Sprachliche) Gestaltung
 
 1. Der Protokollkopf: Name der Hochschule, Institut, Seminartyp, Seminarleitung, Protokollant:in, Semester, Datum.
 2. Der Protokolltext: Der Text ist im Präsens zu verfassen. Bei Bezügen auf den Seminarverlauf - also was eine Person sagte - wird Präteritum gewählt. Das Protokoll ist in ganzen Sätzen (nicht in Stichpunkten) zu formulieren. Ergebnisse sollen dargestellt werden, allerdings auch deren diskursiver Zusammenhang berücksichtigt werden. Die namentliche Nennung von Sprecher*innen ist nicht angebracht. Besonders wichtige Aspekte können markiert oder hervorgehoben werden. Auch sollte das Protokoll sinnvoll durch Überschriften und Zwischenüberschriften (Thema und Unterthemen der Sitzung) strukturiert werden. Übliche Länge sind zwei bis drei DIN-A 4-Seiten.
 3. Der Anhang: Bibliographie der Literatur der Seminarsitzung / Folien auf die Bezug genommen wurde.
 4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts
 
-#### III. Herausforderungen
+### III. Herausforderungen
 
 * Balance zwischen diskursivem Verlauf und Ergebnissen -> Herausarbeitung der (zentralen) Ergebnisse.
 * Balance zwischen sprachlicher Verknappung/Abstraktion und Wiedergabe der Beiträge. Bitte keine Umgangssprache verwenden. Auf korrekte Fachlexik achten.
 * Das Protokoll vor der Abgabe Korrektur lesen (lassen).
 * Formal: Protokollkopf einfügen, Gliedern und Strukturieren, Literaturangaben nicht vergessen, Markierungen einheitlich verwenden. (siehe Checkliste)
 
-#### IV. Fünf Schritte bei der Erstellung des Protokolls
+### IV. Fünf Schritte bei der Erstellung des Protokolls
 
 1. Vorbereitung. Die zu protokollierende Sitzung sollte gut vorbereitet sein.
 2. Rezeption der Seminarsitzung. Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen.
@@ -124,7 +124,9 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 1. Komprimieren und Reproduzieren. Es bietet sich an, die Mitschrift so schnell wie möglich zu bearbeiten, da die Inhalte dann noch frisch erinnert werden. Ergänzen Sie nun aus dem Gedächtnis oder aus Ihren Materialien wichtige Aspekte ihrer Mitschrift und bringen Sie die Inhalte in eine Struktur (die von der Chronologie des Seminars abweichen kann).
 2. Erstellen des Protokolls. Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form gebracht werden. Möglicherweise wird der Text auch nochmals umstrukturiert. Der fertige, korrigierte Text kann auch nochmal anhand der Funktionen des Protokolls überprüft werden. Kann eine fremde Person den Sitzungsverlauf und -inhalte nachvollziehen?
 
-#### V. Checkliste vor der Abgabe
+Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
+
+### V. Checkliste vor der Abgabe
 
  1. Hat Ihr Protokoll einen Kopf?
  2. Ist Ihr Text einheitlich formatiert, im Blocksatz und unter Berücksichtigung der Seitenränder? Stimmen die Seitenumbrüche? Haben Sie Seitenzahlen angegeben?
@@ -138,4 +140,22 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 10. Haben Sie alle Punkte der Checkliste berücksichtigt?
 11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
 
-Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
+
+### VI. Vorstellung des Protokolls in der nächsten Sitzung
+
+* Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die Seminarteilnehmenden zusammenfassen können.
+
+
+## 2. Sitzung 24.04.2024
+
+**Bruno Latour (1947-2022)**
+
+Kampf um Gaia (2017) Erster Vortrag: Über die Instabilität (des Begriffs) der Natur, S. 21-75.
+
+
+## 3. Sitzung 08.05.2024
+
+**Onlinesitzung mit Vortrag von Dr. Bastian Ronge (Wuppertal)**
+
+https://uni-kiel.zoom-x.de/j/61037046291?pwd=U3l1emNuTWxxbXpEWHhNZmxOQkI5dz09
+
