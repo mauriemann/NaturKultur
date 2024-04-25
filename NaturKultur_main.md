@@ -76,7 +76,7 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 | 01.05.2024 | Keine Sitzung: Feiertag | kein Referat | kein Protokoll |
 | 08.05.2024 | Geschichte(n) des Materialismus - Onlinesitzung mit Impuls-Vortrag und Kennenlernen der Prager Summerschool ‚Akutes Denken‘ | kein Referat | N.N. |
 | 15.05.2024 | Klimakrise und Naturbegriff Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022) | Lida Shekhzadeh, Lasse Burmeister | Cara Spitzer |
-| 22.05.2024 | Ökologie und PraxisAnna L. Tsing: Der Pilz am anderen Ende der Welt (2019) | Enya Docter, Tim Kuhlmann | Lena Langmaack |
+| 22.05.2024 | Ökologie und Praxis Anna L. Tsing: Der Pilz am anderen Ende der Welt (2019) | Enya Docter, Tim Kuhlmann | Lena Langmaack |
 | 29.05.2024 | Natur, Technik & Feministische Wissenschaftskritik Donna J. Haraway: Unruhig Bleiben (2016 / 2018) | Adam Kosumov, Julie Hesse| Anna Block |
 | 05.06.2024 | Natur, Technik & Feministische Wissenschaftskritik II Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017) | Luisa Kulawik, Anna Steinfatt | Amal Ramia |
 | 12.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie - Philippe Descola: Jenseits von Natur und Kultur (2005) | Lee Bölter, Paul Stein | Silas Henke |
@@ -249,3 +249,38 @@ Demgegenüber geht Latour davon aus, dass diese Unterscheidung erst ein Produkt 
 
 https://uni-kiel.zoom-x.de/j/61037046291?pwd=U3l1emNuTWxxbXpEWHhNZmxOQkI5dz09
 
+## 4. Sitzung 15.05.2024
+
+Textgrundlage: Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022)
+
+## 5. Sitzung 22.05.2024
+
+Textgrundlage: Anna L. Tsing: Der Pilz am anderen Ende der Welt (2019)
+
+## 6. Sitzung 29.05.2024
+
+Textgrundlage: Donna J. Haraway: Unruhig Bleiben (2016 / 2018)
+
+## 7. Sitzung 05.06.2024
+
+Textgrundlage: Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017)
+
+## 8. Sitzung 12.06.2024
+
+Textgrundlage: Philippe Descola: Jenseits von Natur und Kultur (2005)
+
+## 9. Sitzung 19.06.2024
+
+Textgrundlage: Philippe Descola: Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen (2014)
+
+## 10. Sitzung 26.06.2024
+
+Textgrundlage: Eduardo Viveiros de Castro: Der Marmor und die Myrte
+
+## 11. Sitzung 03.07.2024
+
+Textgrundlage: Eduardo Viveiros de Castro: Der Marmor und die Myrte
+
+## 12. Sitzung 10.07.2024
+
+Abschlussdiskussion
