@@ -74,15 +74,15 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 | 17.04.2024 | Organisatorisches & Einführung: Vinciane Despret: Wie der Vogel wohnt (2022) | kein Referat | kein Protokoll |
 | 24.04.2024 | Naturbegriff und Moderne - Bruno Latour: Kampf um Gaia (2017) | kein Referat | Protokoll: N.N. |
 | 01.05.2024 | Keine Sitzung: Feiertag | kein Referat | kein Protokoll |
-| 08.05.2024 | Geschichte(n) des Materialismus - Onlinesitzung mit Impuls-Vortrag und Kennenlernen der Prager Summerschool ‚Akutes Denken‘ | kein Referat | Silvo Kuhn |
-| 15.05.2024 | Klimakrise und Naturbegriff Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022) | Lida Shekhzadeh, ...., | Cara Spitzer |
+| 08.05.2024 | Geschichte(n) des Materialismus - Onlinesitzung mit Impuls-Vortrag und Kennenlernen der Prager Summerschool ‚Akutes Denken‘ | kein Referat | N.N. |
+| 15.05.2024 | Klimakrise und Naturbegriff Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022) | Lida Shekhzadeh, Lasse Burmeister | Cara Spitzer |
 | 22.05.2024 | Ökologie und PraxisAnna L. Tsing: Der Pilz am anderen Ende der Welt (2019) | Enya Docter, Tim Kuhlmann | Lena Langmaack |
-| 29.05.2024 | Natur, Technik & Feministische Wissenschaftskritik Donna J. Haraway: Unruhig Bleiben (2016 / 2018) | Adam Kosumov, ..... | Anna Block |
-| 05.06.2024 | Natur, Technik & Feministische Wissenschaftskritik II Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017) | Luisa Kulawik, Anna Steinfatt | N.N. |
+| 29.05.2024 | Natur, Technik & Feministische Wissenschaftskritik Donna J. Haraway: Unruhig Bleiben (2016 / 2018) | Adam Kosumov, Julie Hesse| Anna Block |
+| 05.06.2024 | Natur, Technik & Feministische Wissenschaftskritik II Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017) | Luisa Kulawik, Anna Steinfatt | Amal Ramia |
 | 12.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie - Philippe Descola: Jenseits von Natur und Kultur (2005) | Lee Bölter, Paul Stein | Silas Henke |
 | 19.06.2024 | (Nicht-Westliche) Naturverhältnisse aus Sicht der Anthropologie II - Philippe Descola: Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen (2014) | Anna Nissen, Sophie Kühndahl | Erik Götsche |
 | 26.06.2024 | Die Natur und „das Wilde“ I - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Jakob Wuhnsen, Jana Leifeling | Aaron Schneider |
-| 03.07.2024 | Die Natur und „das Wilde“ II - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Miedia Sibari, (Marcel Krüger) | N.N. |
+| 03.07.2024 | Die Natur und „das Wilde“ II - Eduardo Viveiros de Castro: Der Marmor und die Myrte (2016) | Miedia Sibari, Marcel Krüger | Silvo Kuhn |
 | 10.07.2024 | Abschlussdiskussion | kein Referat  | kein Protokoll |
 
 
@@ -178,9 +178,67 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
 
 ## 2. Sitzung 24.04.2024
 
-**Bruno Latour (1947-2022)**
+Textgrundlage: Kampf um Gaia (2017) Erster Vortrag: Über die Instabilität (des Begriffs) der Natur, S. 21-75.
 
-Kampf um Gaia (2017) Erster Vortrag: Über die Instabilität (des Begriffs) der Natur, S. 21-75.
+### Bruno Latour (1947-2022)
+
+* Mitbegründer der Akteur-Netzwerk Theorie (ANT)
+* Wissenschaftssoziologe 
+* Technikphilosoph
+* ‚Anthropologe der Moderne‘
+* Theoretiker der Post-Sozialität 
+
+**Einflussreiche Schriften**
+
+* Laboratory Life. The Social Construction of Scientific Facts (1979/1986)
+
+* Wir sind nie modern gewesen. Versuch einer symmetrischen Anthropologie (1995)
+
+* Das Parlament der Dinge. Für eine politische Ökologie (2001)
+
+### Problematisierung der Moderne(n Kosmologie)
+
+**Reinigungsarbeit:** 
+* Trennung von Natur/Kultur, Objekt/Subjekt, Passiv/Aktiv, usw.
+
+**Übersetzungsarbeit:** 
+* Hybridisierung
+* Wir finden überall Dinge, Technik, Natur und Wissenschaft vermischt und vermittelt 
+
+_Als Vertreter einer symmetrischen Anthropologie und der Akteur-Netzwerke Theorie (ANT) prägt Latour Forschungsperspektiven und Begriffe_
+
+* NaturKultur
+* Aktanten; Akteure 
+* Quasi-Objekte (M. Serres) _(als Hybride = real, sozial & diskursiv zugleich)_
+* Kollektive; Assoziationen: _‚assoziieren‘ Nicht-Menschen und Menschen miteinander_
+* Reinigungsarbeit / Übersetzungsarbeit
+* Gaia, das ‚Terrestrische‘ und die ‚Kritische Zone‘ 
+* Ökologische Klasse
+
+
+„Kernstück Latours technikphilosophischer Überlegungen bildet die Kritik der Vorstellung, dass sich die Wirklichkeit in zwei fundamental verschiedene ontologische Sphären, einer Gesellschaft, bestehend aus freien, autonomen Menschen und einer Natur, die sich aus passiven stummen Objekten zusammensetzt, scheiden ließe. 
+
+Demgegenüber geht Latour davon aus, dass diese Unterscheidung erst ein Produkt einer modernen Übereinkunft darstellt. Die moderne Verfassung lässt sich mit Latour als eine verpflichtende Selbstfestlegung, als eine semantische Ordnung (Latour 2008, 22f.) verstehen, in dessen Zentrum die Vorstellung steht, dass sich Natur und Gesellschaft, Geist und Materie, Subjekt und Objekt, Mensch und Tier, Technik und Körper, Artifizielles und Natürliches, Physikalisches und Nichtphysikalisches sowie Beobachtung und Eingriff analytisch trennscharf auseinanderhalten ließen.“ 
+
+
+(Josef Barla/Steinschaden 2012: 2) 
+
+„Es gibt ebenso wenig Kulturen – unterschiedliche oder universelle –, wie es eine universelle Natur gibt. Es gibt nur Naturen/Kulturen: sie bilden die einzige Grundlage für einen möglichen Vergleich.“ 
+
+
+(Latour 1995: 139f; Gesing et al. 2019)
+
+
+
+"Latour entleiht den Begriff des Aktanten [...] und bezeichnet damit alle Einheiten, die in einem Netzwerk einen Effekt haben. Akteure sind zur Gestalt geronnene Aktanten und sind so als Figuren adressierbar." 
+
+
+(Stäheli 2021: 95/3)
+
+
+
+
+
 
 
 ## 3. Sitzung 08.05.2024
