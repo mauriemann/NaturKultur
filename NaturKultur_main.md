@@ -253,6 +253,25 @@ https://uni-kiel.zoom-x.de/j/61037046291?pwd=U3l1emNuTWxxbXpEWHhNZmxOQkI5dz09
 
 Textgrundlage: Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022)
 
+
+>„Die Ökologie – soviel dürfte verständlich geworden sein – ist nicht das Eindringen der Natur in den öffentlichen Raum, sondern das ‚Ende der ‚Natur‘ als eines Konzepts, das uns erlaubt, unsere Beziehungen zur Welt zu resümieren und zu pazifizieren. […] Das Konzept ‚Natur‘ erscheint jetzt als eine verstümmelte, vereinfachte, übertrieben moralisierende, exzessiv polemische, verfrüht politische Version der Alterität der Welt, der wir uns öffnen müssen, um nicht alle miteinander wahnsinnig zu werden.“ 
+(Latour 2017: 68f)
+
+
+>„Wir sind nicht länger Menschenwesen in der Natur, sondern Lebewesen inmitten anderer Lebewesen in offener Entwicklung mit und gegen uns, die alle an demselben Terraforming teilnehmen“ 
+(Latour 2022: 49, (39))
+
+
+### Informationen zur Bewerbung für Prag
+
+Autumn School 11.-13.10.2024
+Anreise 10.10.2024
+
+Bewerbung bis 15.05.2024
+* Motivationsschreiben (1 Seite)
+* Kurzer akademischer CV unter Angabe von Studienfächern und Interessen^
+* einzureichen als ein PDF-Dokument per Mail an uns beide
+
 ## 5. Sitzung 22.05.2024
 
 Textgrundlage: Anna L. Tsing: Der Pilz am anderen Ende der Welt (2019)
