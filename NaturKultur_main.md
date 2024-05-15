@@ -259,7 +259,8 @@ Textgrundlage: Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologische
 
 **‚Memorandum‘**
 
->„Aufzeichnung eines diplomatischen Vertreters, um den Standpunkt einer ‚Regierung‘ darzulegen“ (ebd.: 5)
+>„Aufzeichnung eines diplomatischen Vertreters, um den Standpunkt einer ‚Regierung‘ darzulegen“ 
+(ebd.: 5)
 
 
 
