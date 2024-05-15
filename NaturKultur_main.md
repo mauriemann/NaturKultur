@@ -253,6 +253,15 @@ https://uni-kiel.zoom-x.de/j/61037046291?pwd=U3l1emNuTWxxbXpEWHhNZmxOQkI5dz09
 
 Textgrundlage: Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologischen Klasse (2022)
 
+>„Unter welchen Bedingungen könnte die Ökologie die Politik um sich herum organisieren, statt nur eine Bewegung unter anderen zu sein? Darf sie hoffen, den politischen Horizont so zu definieren, wie es einst der Liberalismus, dann die Sozialismen sowie der Neoliberalismus taten, und wie es seit Kurzem die illiberalen oder neofaschistischen Parteien tun, deren Aufstieg sich ungebremst fortsetzt?“ 
+(Latour/Schultz 2022: 9 / 1)
+
+
+**‚Memorandum‘**
+>„Aufzeichnung eines diplomatischen Vertreters, um den Standpunkt einer ‚Regierung‘ darzulegen“ (ebd.: 5)
+
+
+
 
 >„Die Ökologie – soviel dürfte verständlich geworden sein – ist nicht das Eindringen der Natur in den öffentlichen Raum, sondern das ‚Ende der ‚Natur‘ als eines Konzepts, das uns erlaubt, unsere Beziehungen zur Welt zu resümieren und zu pazifizieren. […] Das Konzept ‚Natur‘ erscheint jetzt als eine verstümmelte, vereinfachte, übertrieben moralisierende, exzessiv polemische, verfrüht politische Version der Alterität der Welt, der wir uns öffnen müssen, um nicht alle miteinander wahnsinnig zu werden.“ 
 (Latour 2017: 68f)
