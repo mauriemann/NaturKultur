@@ -265,13 +265,14 @@ Textgrundlage: Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologische
 ### Informationen zur Bewerbung für Prag
 
 **Autumn School 11.-13.10.2024**
-Anreise 10.10.2024
+
+(Anreise 10.10.2024)
 
 **Bewerbung bis 15.06.2024**
 
 
 * Motivationsschreiben (1 Seite)
-* Kurzer akademischer CV unter Angabe von Studienfächern und Interessen^
+* Kurzer akademischer CV (Lebenslauf) unter Angabe von Studienfächern und Interessen
 * einzureichen als ein PDF-Dokument per Mail an uns beide
 
 ## 5. Sitzung 22.05.2024
