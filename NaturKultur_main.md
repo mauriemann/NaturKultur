@@ -286,9 +286,77 @@ Textgrundlage: Bruno Latour & Nikolaj Schultz: Zur Entstehung einer ökologische
 * Kurzer akademischer CV (Lebenslauf) unter Angabe von Studienfächern und Interessen
 * einzureichen als ein PDF-Dokument per Mail an uns beide
 
+
+### Protokoll der Sitzung vom 15.05.
+
+**Protokollantin: Cara Spitzer (Soziologie)**
+
+**Thema der Sitzung**
+
+
+Das Thema der Sitzung lautet „Klimakrise und Naturbegriff“. Als Grundlage dient das Memorandum von Bruno Latour und Nikolaj Schultz Zur Entstehung einer ökologischen Klasse.
+Die diskursive Erarbeitung der Inhalte begann mit einem Vortrag, in dem zunächst ein kurzer biographischer Hintergrund der Autoren erläutert wurde. Außerdem wurden die zentralen Begriffe des Marx‘schen Klassenkampfes, die auch im Text aufgegriffen werden, erläutert und die wichtigsten Aspekte des Textes zusammengefasst.
+Die Diskussion im Plenum wurde mit der Frage eröffnet, wie die ökologische Klasse sinnvoll handeln kann. Im Text wird darauf hingewiesen, dass es eine der zentralen Herausforderungen der ökologischen Klasse ist, diesen Sinn zu stiften, da er sich nicht unbedingt von selbst ergibt, wie es das moderne Fortschrittsnarrativ suggeriert. Dies mache es besonders anspruchsvoll, denn der Sinn der Geschichte könne – laut Latour und Schultz – nun anders definiert werden.
+
+
+**Aufgabe der ökologischen Klasse**
+
+
+Anschließend wurde die Diskussionsfrage der Referentin und des Referenten aufgegriffen: Inwieweit kann eine nachhaltige Entwicklung erreicht werden, die ein harmonisches Verhältnis zwischen Mensch und Umwelt fördert, ohne die Produktion als primäres Ziel zu betrachten? Diese sehr weit gefasste Frage trifft den Kern des Memorandums, denn genau dieses Problem soll die entstehende ökologische Klasse lösen. Im Plenum wurden einige zentrale Aspekte hervorgehoben. Zum einen gehe es darum, das Primat der Produktion zu brechen und stattdessen die Bewohnbarkeit der Erde und die Nachhaltigkeit in den Mittelpunkt zu stellen. Dabei geht es vor allem darum, Produktion nicht als Herstellen, sondern als Kombinieren und Zusammenfügen zu verstehen, als Einwickeln statt Entwickeln, wie Latour und Schultz (2022, S. 27) schreiben.
+
+Über die im Text genannten Punkte hinaus wurde auch auf Hartmut Rosa und die Kritik am guten Leben verwiesen. Denn auch hier wird die Anhäufung materieller Ressourcen als primäres Ziel problematisiert. Allerdings wurde in diesem Zusammenhang darauf hingewiesen, dass Überkonsum vor allem in den reichen Industrieländern zu beobachten sei und für einen Großteil der Bevölkerung in Entwicklungsländern eher die Befriedigung von Grundbedürfnissen im Vordergrund stehe.
+
+**Verhältnis zwischen Mensch und Natur**
+
+
+Ein wesentlicher Aspekt, der in der Formulierung der Diskussionsfrage enthalten ist, ist die Frage nach einem harmonischen Verhältnis zwischen Mensch und Umwelt. Denn wie bereits in der Sitzung vom 24.04.2024 diskutiert, beginnt für Latour das Problem an dieser Stelle, nämlich bei der Trennung von Mensch und Umwelt. Die Studierenden brachten ein, dass der Text auch dazu auffordere, die alten Denkmuster des Anthropozentrismus zu überwinden. In den bisherigen Klassenkämpfen sei alles Nichtmenschliche als bloße Ressource betrachtet worden, die ökologische Klasse müsse aber Prosperität in diesem Zusammenhang neu denken.
+
+Es wurde die Frage aufgeworfen, ob die Menschen sich nicht nur um die Umwelt sorgen, weil die Umweltzerstörung ihre eigene Existenz bedroht. Dies wurde von einigen Diskussionsteilnehmern bestätigt. Die Umweltzerstörung sei kein neues Phänomen und es stelle sich die Frage, warum erst jetzt und nicht ausreichend gehandelt werde. Diese Lähmung und die teilweise diffuse Motivation stellen für die ökologische Klasse eine große Herausforderung dar. Diese Frage wird im Text nicht explizit angesprochen. Dennoch muss dem entgegengehalten werden, dass dies wiederum das Primat des Menschen voraussetzt. In der Diskussion wurde darauf hingewiesen, dass Latour und Schultz auch deutlich machen, dass der ökologische Klassenkampf kein rein menschlicher Klassenkampf ist, sondern eher organisch gedacht werden muss, als reproduktive Lebewesen nebeneinander.
+
+**Disharmonisches Naturverständnis**
+
+
+Dies führte zum letzten Diskussionspunkt: Latours disharmonisches Naturverständnis. Es scheint offensichtlich, dass der Kampf ums Überleben in der Natur verankert ist. Wir Menschen sind Teil dieses Kreislaufs, wir bedrohen und wir werden bedroht. Ob es in diesen vielen einzelnen disharmonischen und harmonischen Beziehungen so etwas wie eine übergeordnete Harmonie der Summe des Systems gibt, bleibt offen.
+
+Die Diskussion konnte mit einem Zitat zusammengefasst werden, das die zentralen Punkte der diskutierten Inhalte umfasst: Wir sind nicht länger Menschenwesen in der Natur, sondern Lebewesen inmitten anderer Lebewesen [Auflösen der Trennung von Mensch und Umwelt] in offener Entwicklung mit und gegen uns [disharmonisches Naturverständnis], die alle an demselben Terraforming teilnehmen [ökologische Klasse ist nicht nur menschlich; alles bewegt sich] (2022, S.49).
+
+
+
 ## 5. Sitzung 22.05.2024
 
 Textgrundlage: Anna L. Tsing: Der Pilz am anderen Ende der Welt (2019)
+
+### Hartmut Rosa: 
+
+**Ambivalenz von Natur-Kultur-Beziehungen**
+
+
+>"Festzuhalten bleibt, dass die kulturell etablierte Weltbeziehung der Moderne zwischen einem handlungspraktisch und institutionell dominanten Naturverhältnis, dem Natur als Ressource dient, die es intellektuell zu beherrschen, technisch zu bearbeiten und ökonomisch zu nutzen gilt, und einem psychoemotionalen Naturverhältnis, in dem Natur als primordiale Resonanzsphäre fungiert, gleichsam vermittlungslos hin- und herpendelt." (Rosa 2016: 467)
+
+* Instrumentelles  Verhältnis zur Natur 
+* Romantisiertes  Verhältnis zur Natur
+
+
+**Ambivalenz von Mensch-Tier-Beziehungen**
+
+
+>"Die ästhetisch-kontemplative Rezeption und die produktivistische Bearbeitung, Berechnung und Vernutzung der Natur bleiben weiterhin unvermittelt und unvereinbar nebeneinander stehen. Nirgendwo wird der daraus resultierende Widerspruch deutlicher als in unserem Umgang mit Tieren." (ebd.: 471f)
+
+
+
+>“An der Rettungsaktion waren insgesamt vier Schlauchboote und vier Unterstützungsschiffe mit Feuerwehrleuten, Soldaten und anderen Freiwilligen beteiligt. Das Ganze wurde aus Hubschraubern gefilmt und live im Fernsehen übertragen. […]
+
+>"Caramelo" erholt sich derweil in einer Tierklinik, die einer Universität angegliedert ist. Die dort beschäftigte Veterinärin und Professorin Mariângela Allgayer schrieb in sozialen Medien, das Pferd sei sehr dehydriert gewesen.”
+
+![alt-text](brasilien-hochwasser-pferd-caramelo.jpg)
+
+"Ein gerettetes Pferd wird zum Symbol der Hoffnung in Brasilien."
+
+[Quelle](https://www.tagesschau.de/ausland/amerika/brasilien-hochwasser-pferd-100.html)
+
+
+
+
 
 ## 6. Sitzung 29.05.2024
 
