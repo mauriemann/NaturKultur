@@ -162,6 +162,27 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 
 Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
 
+### V. Checkliste vor der Abgabe
+
+ 1. Hat Ihr Protokoll einen Kopf?
+ 2. Ist Ihr Text einheitlich formatiert, im Blocksatz und unter Berücksichtigung der Seitenränder? Stimmen die Seitenumbrüche? Haben Sie Seitenzahlen angegeben?
+ 3. Haben Sie die Textgrundlage der Sitzung und weitere Quellen einheitlich und eindeutig bibliographisch nachgewiesen?
+ 4. Besteht Ihr Text aus ganzen und klar verständlichen Sätzen?
+ 5. Haben Sie Orthographie und Grammatik korrekturgelesen? Haben Sie Fremdwörter und Fachbegriffe nachgeschlagen und deren korrekte Schreibweise überprüft?
+ 6. Haben Sie die Sitzungsinhalte gegliedert?
+ 7. Ist Ihr Text ergebnisorientiert verfasst?
+ 8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
+ 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
+10. Haben Sie alle Punkte der Checkliste berücksichtigt?
+11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
+
+
+### VI. Vorstellung des Protokolls in der nächsten Sitzung
+
+* Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die Seminarteilnehmenden zusammenfassen können.
+
+
+
 ## Der Essay als Prüfungsart in den Bachelor- und Masterstudiengängen Philosophie
 
 ### 1. Der philosophische Essay
@@ -214,25 +235,6 @@ Hinweise zum Essayschreiben s. Lektion zum Essay im E-Learning Kurs *Wissenschaf
 
 [^4]: Vgl. Rosenberg, Jay F.: Philosophieren. Ein Handbuch für Anfänger, Frankfurt am Main 2009, S. 81.
 
-
-### V. Checkliste vor der Abgabe
-
- 1. Hat Ihr Protokoll einen Kopf?
- 2. Ist Ihr Text einheitlich formatiert, im Blocksatz und unter Berücksichtigung der Seitenränder? Stimmen die Seitenumbrüche? Haben Sie Seitenzahlen angegeben?
- 3. Haben Sie die Textgrundlage der Sitzung und weitere Quellen einheitlich und eindeutig bibliographisch nachgewiesen?
- 4. Besteht Ihr Text aus ganzen und klar verständlichen Sätzen?
- 5. Haben Sie Orthographie und Grammatik korrekturgelesen? Haben Sie Fremdwörter und Fachbegriffe nachgeschlagen und deren korrekte Schreibweise überprüft?
- 6. Haben Sie die Sitzungsinhalte gegliedert?
- 7. Ist Ihr Text ergebnisorientiert verfasst?
- 8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
- 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
-10. Haben Sie alle Punkte der Checkliste berücksichtigt?
-11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
-
-
-### VI. Vorstellung des Protokolls in der nächsten Sitzung
-
-* Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die Seminarteilnehmenden zusammenfassen können.
 
 
 ## 2. Sitzung 24.04.2024
