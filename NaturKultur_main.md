@@ -416,7 +416,45 @@ Textgrundlage: Anna L. Tsing: Der Pilz am anderen Ende der Welt (2019)
 [Quelle](https://www.tagesschau.de/ausland/amerika/brasilien-hochwasser-pferd-100.html)
 
 
+### Protokoll der Sitzung am 22.05.2024
 
+Protokollantin: Lena Sophie Langmaack
+
+**Sitzungsthema**
+
+Das Sitzungsthema lautet diese Woche „Ökologie und Praxis." Die Grundlage bildet dabei der
+Text *Der Pilz am anderen Ende der Welt* von Anna Tsing. 
+
+Den Anfang der Sitzung bildete eine Rekapitulation der vorherigen Woche, in welcher es thematisch um die „Klimakrise und Naturbegriff“ ging. Diese stützte sich auf Literatur von Bruno Latour und Nicolaj Schultz. In dem Nachtrag wurde darauf eingegangen, dass die Ambivalenz von Natur Kultur Beziehung in der Mensch Tier Beziehung stecke und dessen Inbegriff bilde. Beispielhaft wurde dabei das Bild eines geretteten Pferdes vor dem Unwetter in Brasilien angeführt.
+
+Von diesem Punkt aus wurde übergeleitet zum Referat, welches mit der Beleuchtung des biografischen Hintergrundes der Autorin des Textes dieser Woche begann. Fortführend wurde der Aufbau des Buches,welches durch die vielen Unterkapitel heraussticht, mit der Struktur des Matsutake Pilz verglichen, da diese als genauso verflochten gilt.
+
+**Gegenstand des Textes**
+
+Unsere Welt wird von Tsing als eine prekäre Welt charakterisiert und als solche, die vom Kapitalismus desillusioniert sei. Dem Matsutake Pilz wird hierbei eine Möglichkeit zur Orientierung zugeschrieben, wie der Kapitalismus überlebt werden kann.
+
+**Diskussion der Gruppe**
+
+Die Diskussion des Kurses wurde mit der Frage eingeleitet, inwieweit die Verflechtungen, wie sie von Tsing beschrieben wurden, hilfreich bei der Erhaltung der Umwelt sei. Zunächst wurde kommentiert, dass es für das Verständnis von Tsing eine Art Identifikation mit der Natur brauche insofern, dass wir Menschen uns erst um die Natur kümmern, wenn wir unmittelbar davon betroffen sind. Hierbei wurde ergänzt, dass der Begriff des polyphonen Gefüges, wie er von Tsing angeführt wird, zu verknüpfen sei mit der Forderung von Latour, welcher für die Auflösung des Gegensatzes von Kultur und Natur, hin zur Betrachtung als wechselseitiges Gefüge plädiert hat.
+
+Von der Referentin wurde nachgetragen, dass die Zerstörung der Umwelt seitens des Menschen anthroprozentrisch gesehen als Triumph gesehen werden könne, der Mensch sich im Endeffekt doch jedoch selbst zerstöre. Hierzu wurde die Verbindung geschlagen, dass das Bild des Pilzes im Text sehr eindrucksvoll erschien und dass Pilze die ersten Pflanzen waren, die in der zerstörten Umwelt von Tschernobyl wieder gewachsen sind. Die Definition des Überlebens hat zur Texterschließung ebenfalls eine Rolle gespielt, da das Überleben im Kapitalismus oft als Kampf gegeneinander definiert wird. Nach Tsing braucht es allerdings zum Überleben der Menschheit eine Symbiose, die geschlossen wird, zusätzlich zur Akzeptanz dessen, dass wir kollaborieren müssen. Wir gehen also in Kollaboration zum Selbsterhalt. Ergänzend dazu, ist Fortschritt für die Autorin als Einheitlichkeit zu verstehen. Der Fortschritt wird als etwas definiert, bei dem wir alles mitdenken, nicht bloß uns. Dabei herrscht hier der Appell, sich vom utopischen Standort zu lösen, dass wir die Welt retten wollen, stattdessen solle man sich in die Gegenwart zurückzubesinnen, um abzuwägen, wie man als Individuum agiert.
+
+**Kontamination als Kollaboration**
+
+Weitere Schlüsselbegriffe des Textes und somit auch der Diskussion bilden die Worte
+Kontamination und Kollaboration. Kontamination als Kollaboration heißt hier, die Verunreinigung des Ökosystems als eine Form der Zusammenarbeit. Wenn wir uns als Menschen unabsichtlich einmischen in die Natur, kommen wir in dieses Kollaborationsverhältnis herein. Wenn wir uns absichtlich einmischen, treten wir wieder aus diesem Verhältnis heraus. Die Geschichte des westlichen Individualismus wird wissenschaftstheoretisch problematisiert. Für die Produktion findet oftmals eine isolierte Betrachtung von Naturphänomenen und Lebensnetzwerken statt um sie beherrschbar und zum Produkt zu machen. Naturschutz wird oft als Reaktion genutzt auf unbeabsichtigte Einwirkungen, die bereits passiert sind (z.B. erhalten wir Pandas am Leben). Es entstehen also aus der anthroprozentrischen Sichtweise normative Zuschreibungen an die Kultur, da die Menschen an diesem Punkt bestimmen, welche Arten erhalten bleiben sollen. Der Text ist außerdem viel um den Begriff der Präkarität gebaut, da vielerorts die einst vorherrschenden Bedingungen der Tiere nicht mehr gegeben seien (z.B. durch die Erderwärmung).
+
+**Einwurf zum Naturalismus und Animismus**
+
+Als zusätzlichen Punkt wurde die Trennung von Naturalismus und Animismus genannt, wobei
+sich auf die kannibalischen Metaphysiken von Viveiros de Castro bezogen wurde. Naturalismus wird hierbei verstanden als das westliche, industrielle Denken einer Trennung von Kultur und Natur vs. dem Animismus, der einen holistischeren Ansatz hat. Dem Naturalismus wird hierbei ein Multikulturalismus zugeschrieben, es gebe demnach eine große Natur, der alle Wesen angehörig sind und dies drücke sich in verschiedenen Kulturen aus. Anthroprozentrisch gesehen sei der Mensch derjenige, der Kultur besitzt und die anderen Wesen der Sphäre der Natur zuzuschreiben. Der Animismus wird den östlichen Welt bildern zugeordnet, wobei es eine Kultur, also einen Multinaturalismus gibt. Der Animismus sei aus diesem Grund so interessant für die Arbeit an der Überwindung des Natur-Kultur-Dualismus, da er nicht existiere.
+
+Daran anknüpfend wurde die Unterscheidung von Natur und natürlich erwähnt. Die Natur ist demnach der Raum, der besteht (das Gegebene), natürlich ist allerdings alles, was der Mensch als natürlich wahrnimmt und somit kulturell geprägt ist. Kritisiert wurde an diesem Punkt, dass der Mensch aus seinem konstruktivistisch anthroprozentrischen Blick diese Kategorien erst bilde und die zugeschriebenen Beschreibungen immer aus einem subjektiven Blick und vor dem Hintergrund der eigenen Kultur heraus geschehen. Mit Rückblick auf den Text wird auch hier darauf eingegangen, dass die neuen Sichtweisen durch Kontamination und Kollaboration verdeutlichen, dass diese Kategorien lediglich durch Unsicherheiten entstehen. Die Kategorien bieten eigentlich keine Sicherheit, da sie nur erdacht seien. Allerdings erschwert der anthroprozentrische Blick viele umweltethische Diskurse, da beispielsweise die Frage bleibt, was es der Menschheit bringe , die Umwelt zu schützen. Die Kategorien und Identitäten bilden sich aus den Praxen, welche nicht denkbar sind, ohne die Bezüge zueinander.
+
+Die Natur verliert dennoch im Zuge der Diskussion ihren Objektstatus. In den Fokus der Kritik rückt damit, dass wir es nicht mit Objekten, sondern Lebewesen zu tun haben. Anna Tsing plädiert für die benötigte Aufmerksamkeit und Wahrnehmung dessen. Der Natur-Kultur-Dualismus bedeutet auch, Beziehungen und Verantwortungsrelationen neu zu denken.
+
+
+*Literatur: Anna Tsing (2015) Der Pilz am Ende der Welt Über das Leben in den Ruinen des Kapitalismus.*
 
 
 ## 6. Sitzung 29.05.2024
