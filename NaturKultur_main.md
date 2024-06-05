@@ -90,7 +90,7 @@ Da es sich bei den Modulen soz-SM1-1 und soz-SM2-1 um auf zwei Semester angelegt
 
 **Literaturverzeichnis der Seminarlektüre**
 
-* De Castro, Eduardo Viveiros (2016): Der Marmor und die Myrte. In: Die Unbeständigkeit der wilden Seele. Wien/Berlin: Turia+Kant, 161-231
+* Viveiros De Castro, Eduardo (2016): Der Marmor und die Myrte. In: Die Unbeständigkeit der wilden Seele. Wien/Berlin: Turia+Kant, 161-231
 * Descola, Philippe (2013/2021): Jenseits von Natur und Kultur. 3. Aufl. Frankfurt a.M.: Suhrkamp 
 * Descola, Philippe (2014): Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen. In: ZMK Zeitschrift für Medien- und Kulturforschung. Synchronisation, Jg. 5, Nr. 2, 183– 207.
 * Despret, Vinciane (2022): Wie der Vogel wohnt. Berlin: Matthes & Seitz.
@@ -194,52 +194,52 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
 ### 1. Der philosophische Essay
 
 Mit dem Essay als Prüfungsform stellt sich das Philosophische Seminar der Kieler Universität in eine philosophische Tradition, die in dieser literarischen Form die eigenständige Auseinandersetzung mit
-einer Frage und These wagt und einen eigenen Gedanken entfaltet. Der Essay (von frz. essai: „Versuch“ >
-lat. exagium, dt. „wägen“, „Gewicht“) ist ein prägnanter Aufsatz über ein philosophisches Problem, eine
+einer Frage und These wagt und einen eigenen Gedanken entfaltet. Der Essay (von frz. *essai*: „Versuch“ >
+lat. *exagium*, dt. „wägen“, „Gewicht“) ist ein prägnanter Aufsatz über ein philosophisches Problem, eine
 kontrovers diskutierte Fragestellung oder These. Im Unterschied zu einer Hausarbeit, in der eine
 sachorientierte und systematische Behandlung eines Themas erwartet wird, kommt es beim Essayschreiben
 darauf an, das jeweilige Thema in einem größeren Zusammenhang zu ‚erwägen‘, d.h. zu erörtern, um zu einer eigenen Position zu finden und deutlich Stellung zu beziehen. Der Essay erlaubt stilistisch eine größere Freiheit als die wissenschaftliche Hausarbeit, jedoch handelt es sich nicht um eine persönliche Meinungsäußerung, sondern um eine argumentativ begründete Auseinandersetzung.
 
-Die Tradition des philosophischen Essays geht auf die Essais von Michel de Montaigne (1533-1592) zurück und betont die eigene Denkbewegung und das erforschende Suchen eines Standpunktes. Mit der essayistischen Form ist eine besondere Form des Philosophierens verbunden, deren Fokus weniger auf der systematischen Auseinandersetzung liegt, sondern vielmehr in der Darstellung der Denkbewegung und Entfaltung eines Gedankens selbst. Mit Francis Bacon (1561-1626), der das Wort von Montaigne übernommen und ins Englische übertragen hat, wird Essay zur Gattungsbezeichnung nicht nur philosophischer, sondern auch literarischer Schriften. Beide Autoren gelten als ´Ahnväter´ der philosophischen Essayistik.
+Die Tradition des philosophischen Essays geht auf die *Essais* von Michel de Montaigne (1533-1592) zurück und betont die eigene Denkbewegung und das erforschende Suchen eines Standpunktes. Mit der essayistischen Form ist eine besondere Form des Philosophierens verbunden, deren Fokus weniger auf der systematischen Auseinandersetzung liegt, sondern vielmehr in der Darstellung der Denkbewegung und Entfaltung eines Gedankens selbst. Mit Francis Bacon (1561-1626), der das Wort von Montaigne übernommen und ins Englische übertragen hat, wird *Essay* zur Gattungsbezeichnung nicht nur philosophischer, sondern auch literarischer Schriften. Beide Autoren gelten als ´Ahnväter´ der philosophischen Essayistik.
 
-Die semantische Erkundung von essai/essaier gibt erste Hinweise auf die Unmittelbarkeit und Erfahrungsorientiertheit der essayistischen Denk- und Schreibweise: Wer essayistisch denkt und schreibt, fängt bei sich, d.h. den eigenen Erfahrungen mit der Welt und mit sich selbst an; sie/er unterzieht dabei die eigenen Sichtweisen, Erfahrungen, Urteile, aber auch das, was an Sichtweisen, Erfahrungen, Urteilen anderer jeweils begegnet, einer denkenden Prüfung oder Erwägung. Wenn es sich bei dem Geschriebenen noch dazu um Versuche handelt, so sind die damit verbundenen Wissens-, Erkenntnis- oder Wahrheitsansprüche anscheinend deutlich herabgestimmt. Zugleich bedeutet die essayistische Denkweise aber auch die Erprobung einer Perspektive auf eine bestimmte Sache (seien es Dinge, Sachverhalte/Phänomene, Situationen, Ereignisse), um sie zu erschließen und zu beurteilen.
+Die semantische Erkundung von *essai/essaier* gibt erste Hinweise auf die Unmittelbarkeit und Erfahrungsorientiertheit der essayistischen Denk- und Schreibweise: Wer essayistisch denkt und schreibt, fängt bei sich, d.h. den eigenen Erfahrungen mit der Welt und mit sich selbst an; sie/er unterzieht dabei die eigenen Sichtweisen, Erfahrungen, Urteile, aber auch das, was an Sichtweisen, Erfahrungen, Urteilen anderer jeweils begegnet, einer denkenden Prüfung oder Erwägung. Wenn es sich bei dem Geschriebenen noch dazu um Versuche handelt, so sind die damit verbundenen Wissens-, Erkenntnis- oder Wahrheitsansprüche anscheinend deutlich herabgestimmt. Zugleich bedeutet die essayistische Denkweise aber auch die Erprobung einer Perspektive auf eine bestimmte Sache (seien es Dinge, Sachverhalte/Phänomene, Situationen, Ereignisse), um sie zu erschließen und zu beurteilen.
 
 Eine Hochzeit der philosophischen Essayistik lag in der europäischen Aufklärung des 18. Jahrhunderts. Die Zeit der kritischen Emanzipation von tradierten Herrschaftsverhältnissen hat namhaften Essayisten wie Voltaire in Frankreich, David Hume in England und Gotthold Ephraim Lessing in Deutschland hervorgebracht.
 
  
-Das Essayschreiben erfordert in besonderer Weise kritisches Selbstdenken und die Entwicklung einer eigenständigen Argumentation. Auch wenn die Rückbeziehung auf persönliche bzw. alltägliche Erfahrungen dabei ein wesentlicher Bestandteil der Essayistik ist, so liegt im Philosophiestudium der Akzent beim Essayschreiben doch deutlich auf der gedanklichen Auseinandersetzung mit einer philosophischen Problemstellung/Kontroverse oder einer philosophischen Position oder einem philosophischen Begriff. In diesem Kontext kommt es darauf an, sich philosophische Texte methodisch erschließen zu können, um sie angemessen zu verstehen und auszulegen. Mit Hans Georg Gadamer lässt sich der Vorgang des Verstehens als ein Bemühen beschreiben, mit dem Text ´ins Gespräch zu kommen´, d.h. den historischen Horizont des Textes mit dem eigenen „Verstehenshorizont der Gegenwart“, seinen impliziten Maßstäben und legitimen Vorurteilen zu „verschmelzen“.[^1] Eine gute Vorbereitung für diese hermeneutische Herangehensweise beim Essayschreiben ist es, sich vor der Lektüre die eigenen Erwartungen an den Text bzw. an das Thema und das eigene Vorverständnis zu vergegenwärtigen.[^2] Wie bei einem Gespräch mit einem unbekannten Menschen, kann dies dazu beitragen, das Gefühl der Fremdheit zu überwinden und dem Gelesenen gegenüber aufgeschlossen zu bleiben – also: aufmerksam ´zuzuhören´. 
+Das Essayschreiben erfordert in besonderer Weise kritisches Selbstdenken und die Entwicklung einer eigenständigen Argumentation. Auch wenn die Rückbeziehung auf persönliche bzw. alltägliche Erfahrungen dabei ein wesentlicher Bestandteil der Essayistik ist, **so liegt im Philosophiestudium der Akzent beim Essayschreiben doch deutlich auf der gedanklichen Auseinandersetzung mit einer philosophischen Problemstellung/Kontroverse oder einer philosophischen Position oder einem philosophischen Begriff.** In diesem Kontext kommt es darauf an, sich philosophische Texte methodisch erschließen zu können, um sie angemessen zu verstehen und auszulegen. Mit Hans Georg Gadamer lässt sich der Vorgang des Verstehens als ein Bemühen beschreiben, mit dem Text ´ins Gespräch zu kommen´, d.h. den historischen Horizont des Textes mit dem eigenen „Verstehenshorizont der Gegenwart“, seinen impliziten Maßstäben und legitimen Vorurteilen zu „verschmelzen“.[^1] Eine gute Vorbereitung für diese **hermeneutische Herangehensweise beim Essayschreiben** ist es, sich vor der Lektüre die eigenen Erwartungen an den Text bzw. an das Thema und das eigene Vorverständnis zu vergegenwärtigen.[^2] Wie bei einem Gespräch mit einem unbekannten Menschen, kann dies dazu beitragen, das Gefühl der Fremdheit zu überwinden und dem Gelesenen gegenüber aufgeschlossen zu bleiben – also: aufmerksam ´zuzuhören´. 
 
-[^1]: H.-G. Gadamer: Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik. Tübingen 1960, 6. Aufl. 1990, S. 289f. 
+[^1]: H.-G. Gadamer: *Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik.* Tübingen 1960. 6. Aufl. 1990. S.289f. 
 
-[^2]: Vgl. Thomas Rentsch/Johannes Rohbeck: Essays schreiben – aber mit Methode. Jahrbuch für Didaktik der Philosophie und Ethik 8 (2007), S. 75-81, S. 78f.
+[^2]: Vgl. Thomas Rentsch/Johannes Rohbeck: *Essays schreiben – aber mit Methode.* In: Jahrbuch für Didaktik der Philosophie und Ethik 8 (2007). S. 75-81. hier S.78f.
 
 **Literaturhinweise**
 
-Montaigne, Michel de: Essais. Übers. v. Hans Stilett.  Frankfurt a.M. 199
+Montaigne, Michel de: *Essais*. Übers. v. Hans Stilett. Frankfurt a.M. 2001.
 
-Bacon, Francis: Essays oder praktische und moralische Ratschläge. Übers. v.  Elisabeth Schücking. Hrsg. v. Levin Schücking, Stuttgart 2011
+Bacon, Francis: *Essays oder praktische und moralische Ratschläge*. Übers. v.  Elisabeth Schücking. Hrsg. v. Levin Schücking. Stuttgart 2011.
 
-Konersmann, Ralf: *Essay*, in: Ders.: Wörterbuch der Unruhe, Frankfurt am Main 2017, S. 49-55
+Konersmann, Ralf: *Essay*. in: Ders.: Wörterbuch der Unruhe. Frankfurt a. M. 2017. S.49-55.
 
-Černy, Lothar: *Essay*, in: Historisches Wörterbuch der Philosophie. Hrsg. v. Joachim Ritter, Karlfried Gründer und Gottfried Gabriel. Basel 1971-2007. Bd. 2, Sp. 746-749
+Černy, Lothar: *Essay*, in: Historisches Wörterbuch der Philosophie. Hrsg. v. Joachim Ritter, Karlfried Gründer und Gottfried Gabriel. Basel 1971-2007. Bd. 2, Sp.746-749.
 
-Schärf, Christian: Geschichte des Essays. Von Montaigne bis Adorno. Göttingen 1999
+Schärf, Christian: *Geschichte des Essays. Von Montaigne bis Adorno.* Göttingen 1999.
 
 
 ### 2. Der Essay als Prüfungsart in den Bachelor- und Masterstudiengängen Philosophie
 
 Der Essay kann in den BA-Wahlpflichtmodulen BA7 und BA8 als eine unter vier Prüfungsarten gewählt werden (Umfang: ca. 10 Seiten); im Modul BA9 ist er neben einer Hausarbeit als weitere Prüfungsart vorgeschrieben. – In den Masterstudiengängen Philosophie ist der Essay verpflichtende Prüfungsart in den Modulen MAA1 bzw. MAE2. 
 Die Form des Essays als Prüfungsleistung ist offener als bei einer Hausarbeit. Zur Form gehören die Zitation und eine Bibliographie, wie es auch die wissenschaftliche Hausarbeit fordert. Jedoch sind strenge Strukturierungen mit einem Inhaltsverzeichnis und einer Kapitelstruktur nicht erforderlich. Selbstverständlich gehört zur Prüfungsleistung des Essays ebenso ein Titelblatt wie die aktuelle Eigenständigkeitserklärung. Die offenere Form liegt in größerer sprachlicher und stilistischer Freiheit. Die eigene Perspektive auf eine philosophische Frage oder einen philosophischen Gedanken darf ausgeführt werden, ohne dabei reine Meinungsäußerung zu sein. Es darf mit Beispielen zur Veranschaulichung und Sprachbildern, Metaphern, Fragen gearbeitet werden. Dabei sollte jedoch eine erkennbare Ordnung der Gedanken, d.h. nachvollziehbare Gedankengänge und die erforderliche logische Konsistenz nicht vernachlässigt werden. Ziel ist es einen Standpunkt zu er- und begründen und eine kritische Reflexion eines philosophischen Gegenstandes vorzunehmen.
-Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister[^3] unterscheidet drei Formen des studentischen Essays: 1) den kritischen Essay, der eine kritische Prüfung einer philosophischen These vornimmt; 2) den problemlösenden Essay, der die Lösung eines philosophischen Problems versucht, und 3) den urteilenden Essay, der die Entscheidung eines philosophischen Streits versucht. Jay F. Rosenberg[^4] erläutert wie in einem Essay eine begründete Verteidigung einer These erfolgt.
+Es bestehen verschiedene Möglichkeiten, einen Essay zu verfassen. Jonas Pfister[^3] unterscheidet drei Formen des studentischen Essays: 1) den *kritischen* Essay, der eine kritische Prüfung einer philosophischen These vornimmt; 2) den *problemlösenden* Essay, der die Lösung eines philosophischen Problems versucht, und 3) den *urteilenden* Essay, der die Entscheidung eines philosophischen Streits versucht. Jay F. Rosenberg[^4] erläutert wie in einem Essay eine *begründete Verteidigung einer These* erfolgt.
 
 **Achtung:** Das Thema des Essays ist in der Regel im Rahmen des Seminarhorizonts frei gewählt, aber stets mit den Dozent*innen abzustimmen! Das gleiche gilt für etwaige spezifischen Anforderungen des Essays als Prüfungsleistung, die von der jeweiligen Lehrperson festgelegt werden. Diese können von den hier formulierten Anforderungen abweichen.
 
-Hinweise zum Essayschreiben s. Lektion zum Essay im E-Learning Kurs *Wissenschaftliches Arbeiten im Fach Philosophie*, 3.6/Lektion 13:
+**Hinweise zum Essayschreiben** s. Lektion zum Essay im **E-Learning Kurs** *Wissenschaftliches Arbeiten im Fach Philosophie*, 3.6/Lektion 13:
 
 
-[^3]: Vgl. Pfister, Jonas: Werkzeuge des Philosophierens, S. 246-250.
+[^3]: Vgl. Pfister, Jonas: *Werkzeuge des Philosophierens*. S.246-250.
 
-[^4]: Vgl. Rosenberg, Jay F.: Philosophieren. Ein Handbuch für Anfänger, Frankfurt am Main 2009, S. 81.
+[^4]: Vgl. Rosenberg, Jay F.: *Philosophieren. Ein Handbuch für Anfänger*. Frankfurt a. M. 2009. S.81.
 
 
 
@@ -470,8 +470,39 @@ Textgrundlage: Donna J. Haraway: Unruhig Bleiben (2016 / 2018)
 ![alt-text](not-babies.jpg)
 
 
+### Protokoll der Sitzung am 29.05.2024
+
+**Protokollantin: Anna Block**
+
+**Sitzungsthema**
+
+Das Thema der sechsten Sitzung in dieser Woche lautet „Natur, Technik & Feministische Wissenschaftskritik“, basierend auf Donna J. Haraways Buch *Unruhig bleiben: Die Verwandtschaft der Arten im Chthuluzän*, welches 2018 auf Deutsch veröffentlicht wurde.
+Die Sitzung begann mit einem Rückblick auf die vorherige Woche, in der das Thema Ökologie und Praxis im Mittelpunkt stand. Dabei wurde auf Anna Tsings Literatur zurückgegriffen, die sich mit Kapitalismuskritik und Umweltschutzdebatten befasst. Anschließend erfolgte die Übergabe an das Referat. Nach einer kurzen Einführung in Donna Haraways Biografie lag der Schwerpunkt auf Schlüsselbegriffen des Textes wie dem Anthropozän, Kapitalozän und Chthuluzän. Im Anschluss an das Referat folgte im Plenum eine Diskussion, in der Fragen und wesentliche Aspekte des Textes erörtert wurden.
+
+**Die Epochen des *Anthropozäns*, *Kapitalozäns* und *Chthuluzäns***
+
+Der Begriff *Anthropozän* spielt in Haraways Werk eine zentrale Rolle. Er leitet sich vom griechischen Wort *anthropos* für „Mensch“ ab und beschreibt eine Epoche, in der der Mensch einen dominanten Einfluss auf das Klimasystem ausübt. Die Epoche umfasst die tiefgreifenden Veränderungen, die menschliche Aktivitäten auf der Erde verursachen. Haraway kritisiert jedoch die enge Fassung des Begriffs. Sie betont, dass der Blick zu sehr auf den Menschen und sein Handeln gerichtet ist und plädiert für ein erweitertes Verständnis, welches die vielfältigen Wechselwirkungen aller Lebewesen berücksichtigt.
+
+Weiter wurde die Epoche des *Kapitalozäns* angesprochen. Hierbei steht nicht die gesamte Menschheit, sondern das kapitalistische Wirtschaftssystem als treibende Kraft hinter den ökologischen und klimatischen Veränderungen im Fokus. Donna Haraway betont jedoch auch hier die Gefahr, dass der Begriff des *Kapitalozäns* ebenso wie der des *Anthropozäns* in einen deterministischen und simplifizierenden Rahmen fällt.
+
+Haraway versucht die Epoche des *Chthuluzäns*, welche die Zeit des Weitermachens auf einer beschädigten Erde beschreibt, einzuleiten. Es wurde erklärt, dass im *Chthuluzän* die chthonischen Wesen in den Mittelpunkt rücken, die sich laut Haraway wie Tentakel auf der Erde bewegen. Das Bild der Tentakel verwendet sie, um die komplexen und vielschichtigen Beziehungen aller Lebewesen auf der Erde zu veranschaulichen. Aus dieser Darstellung lässt sich der Begriff des tentakulären Denkens ableiten. Das *Chthuluzän* kennzeichnet dementsprechend eine Epoche des Bewusstseins über die Verwobenheit der Natur, in der das Erdsystem von Fäden durchzogen ist. Haraway spricht daher von *SF*, eine Art Methode, um diese Verwobenheit der Fäden nachzuzeichnen. *SF* kann dabei für Science-Fiction, spekulativen Feminismus oder Fabulation sowie für Spiele mit Fadenfiguren stehen. Zudem ist die Erde im *Chthuluzän* nicht autopoetisch, sondern sympoietisch. Sie entwickelt sich demnach nicht autonom, selbstreproduzierend und in sich geschlossen, sondern stets abhängig von der Wechselwirkung ihrer Komponenten ohne strukturelle und räumliche Begrenzungen.
+
+**Diskussion im Plenum**
+
+Die Diskussion im Kurs begann mit der Frage nach Haraways Verständnis vom „Wir“. Die Studierenden hoben zunächst hervor, dass Haraway darauf besteht, dass ihr „Wir“ nicht nur die Menschheit einschließt, sondern auch nicht-menschliche Akteure und generell alle Lebensformen, die miteinander in Beziehung stehen. Es wurde angemerkt, dass wir bestrebt sein sollten, möglichst viele Lebensformen zu retten, einschließlich unserer eigenen. Haraways Idee, weniger Kinder zu bekommen und Beziehungen außerhalb der menschlichen Spezies zu suchen, unterstützt diese Sichtweise.
+
+Ein ebenso wichtiger Punkt, der im Plenum besprochen wurde, ist die Vielzahl von Bezügen, die Haraway zu den bereits im Seminar behandelten Texten herstellt. Sie greift oft aktuelle Diskurse auf, versucht diese weiterzudenken und ihre eigene Perspektive einzubringen. Zusätzlich betont sie die Kraft des Geschichtenerzählens, um neue Narrative zu schaffen und kulturelle Veränderungen anzustoßen. Dadurch wird eine Verbindung zu den vorherigen Texten hergestellt. Latour, Schultz und Tsing haben ebenfalls immer die Wichtigkeit des Geschichtenerzählens betont. Ein weiterer Einwurf war, dass Haraway vor der Gefahr warnt, die von denen ausgeht, die vorgeben, Antworten auf alles zu haben. Indem sie betont, dass es nicht nur eine, sondern viele verschiedene Antworten gibt, unterstreicht sie die Notwendigkeit, erkundend zu sein. Widergespiegelt wird dies auch in ihrem spielerischen Schreibstil mit ihren vielen Wortschöpfungen.
+
+Zusätzlich wurde die Frage aufgeworfen, inwiefern Haraways Forderung nach dem sympoietischen Denken pragmatisch umsetzbar ist. Daraufhin wurde unter anderem auf ihr Zitat, dass nichts mit allem verbunden, aber alles mit etwas verbunden ist, verwiesen. Dies verdeutlicht, dass wir zwar nicht überall gleichzeitig hinschauen können, wir uns dennoch darüber bewusst sein sollten, dass immer Verbindungen vorhanden sind und wir uns darum bemühen müssen, diese zu konkretisieren.
+
+Dies führte zum letzten Diskussionspunkt über die Qualität der Beziehungen der Lebewesen untereinander. Die Verbindungen beziehen sich nicht zwingend auf Freundschaft oder Verwandtschaft, sondern darauf, gemeinsam in die Welt geworfen zu sein und mit den nur in einem kollektiven Setting zu bewältigenden Herausforderungen umgehen zu müssen. Haraway betont, dass wir aufgrund der bloßen Existenz von Lebewesen Verantwortung übernehmen müssen. Aus dieser Verantwortung gegenüber der Natur und allen Lebewesen können qualitative Beziehungen entstehen. Vorausgesetzt ist dabei wiederum, dass wir uns auf diese Verbindungen einlassen.
+
+**Handlungsaufforderung**
+
+Haraway ruft dazu auf, dass wir angesichts der unruhigen Zeiten gemeinsam reagieren müssen. Dies erfordert die Schaffung kreativer Verbindungen und die Entwicklung einer Praxis des Lernens, die es uns ermöglicht, in einer Gegenwart gut miteinander leben und sterben zu können. Mit ihrer Forderung zur Neuausrichtung soll ein Umdenken angeregt werden, das die Grenzen zwischen den verschiedenen Lebewesen auf der Erde auflöst und die Verwobenheit von Natur, Kultur und Gesellschaft verdeutlicht.
 
 
+*Literatur: Haraway, Donna J. (2018): Unruhig bleiben. Die Verwandtschaft der Arten im Chthuluzän. Campus Verlag.*
 
 ## 7. Sitzung 05.06.2024
 
