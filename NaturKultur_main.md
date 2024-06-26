@@ -506,15 +506,193 @@ Haraway ruft dazu auf, dass wir angesichts der unruhigen Zeiten gemeinsam reagie
 
 ## 7. Sitzung 05.06.2024
 
-Textgrundlage: Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017)
+Textgrundlage: Donna J. Haraway: Monströse Versprechen. Gender- und Technologie-Essays (1995 / 2017), Andersweltliche Konversationen; irdische Begriffe, lokale Themen (S. 147 - 183)
+
+### Protokoll von Amal Ramia 
+
+**Thema der Sitzung**
+
+Das Thema lautet „Natur, Technik & Feministische Wissenschaftskritik II“, basierend auf Donna J. Haraways Werk: *Monströse Verspechen. Die Gender- und Technologie-Essays (1995 / 2017)*.
+
+Die Sitzung begann mit einem Rückblick auf die vorherige Woche, in der das Thema ebenfalls Natur, Technik & Feministische Wissenschaftskritik war, basierend auf Donna J. Haraways Buch *Unruhig bleiben: Die Verwandtschaft der Arten im Chthuluzän*. Hier wurden die Begriffe Anthropozän, Kapitalozän und Chthuluzän behandelt. Nach dem Rückblick erfolgte die Übergabe an das Referat.
+
+**Kritik an Traditionellem Naturverständnis und Cyborg-Manifest**
+
+Haraways Essay kritisiert das traditionelle Verständnis zur Natur und fordert dazu auf, ein neues Verhältnis zu dieser, jenseits von Verdinglichung und Nostalgie aufzubauen. Ein zentraler Punkt des Referats ist Haraways Cyborg-Manifest, welches die traditionellen Grenzen zwischen Mensch und Maschine, Organismus und Maschine sowie physikalischen und nicht-physikalischen Entitäten in Frage stellt. Haraways Konzept des Cyborgs soll postmoderne Strategien fördern, die die festen Definitionen dessen, was als Natur betrachtet wird, untergraben.
+
+**Monströsität**
+
+Haraway nutzt den Begriff der Monströsität subversiv, um das Abweichen von gesellschaftlichen Normen als Form des Widerstands gegen restriktive Geschlechternormen zu betrachten. Diese Monströsität soll als Quelle des Widerstands und der Emanzipation verstanden werden.
+
+
+**Kritik an Geschlechterrollen**
+
+Haraway betont die Kritik an starren, binären Geschlechterrollen, die soziale Konstruktionen darstellen und zur Privilegierung bestimmter Gruppen führen. Sie betonten die Notwendigkeit einer feministischen Neugestaltung von Wissenschaft und Technologie, um die Bedürfnisse aller Geschlechter zu berücksichtigen und bestehende Machtstrukturen zu hinterfragen.
+
+**Perspektiven von Young, Noske und Mitchison**
+
+Robert Young sieht Wissenschaft als Kultur und betont die Neugestaltung von Konversationen mit denen, die nicht zu „uns“ gehören. Barbara Noske kritisiert die Vergegenständlichung von Tieren und fordert eine kohärente Konversation zwischen Mensch und Tier, die den andersweltlichen Subjektstatus der Tiere anerkennt. Naomi Mitchison verwendet Science Fiction als Methode, um wissenschaftliche Verbindungen zu erkunden und den Imperativ der Nichteinmischung zu betonen.
+
+**Beispiel**
+
+Ein konkretes Beispiel aus der Präsentation war die Nutzung von weiblichen Stimmen in Sprachassistenztechnologien, die traditionelle Geschlechterstereotype verstärken.
+
+**Diskussion**
+
+
+Zum Abschluss leitete das Referat auf zwei Diskussionsfragen:
+
+1. Inwieweit können Haraways Ansätze zur Dekonstruktion traditioneller Geschlechterrollen und zur Anerkennung nichtmenschlicher Subjektivitäten dazu beitragen, bestehende Ungleichheiten in der Technologiebranche zu reduzieren und welche praktischen Schritte sind nötig, um diese Theorien in die Realität umzusetzen?
+
+2. Wie kann ein neues Verständnis von Natur zur Geschlechtergerechtigkeit beitragen?
+Ein zentrales Diskussionsthema war die Dekonstruktion traditioneller Geschlechterrollen und die Anerkennung nichtmenschlicher Subjektivität, wie sie Haraway in ihren Werken thematisiert.
+
+
+Ein Diskussionspunkt war, dass in der Schule oft vermittelt wird, dass Naturwissenschaft und Technologie hauptsächlich für Jungen geeignet seien. Dieses Bild wurde durch die Werbung für Kinderspielzeug in den 1950er Jahren verstärkt und führte zu einer Polarisierung in den Interessen von Kindern. Eine mögliche Lösung wurde in einem geschlechterneutralen Aufwachsen gesehen, um solche Stereotype zu durchbrechen. In diesem Zusammenhang wurde auch auf Vorfälle von Sexismus in der Informatik an der CAU hingewiesen, was zeigt, dass diese Problematik auch an Bildungsinstituten gegenwärtig ist.
+
+Die Übertragung menschlicher Eigenschaften auf Tiere, wie etwa die Vorstellung, dass Hunde lächeln, wurde ebenfalls thematisiert. Dies veranschaulicht die Tendenz zur Anthropomorphisierung, die Tiere vermenschlicht und damit einer Verdinglichung Vorschub leistet, um Machtverhältnisse zu rechtfertigen.
+
+Ein weiterer Punkt betraf die Machtstrukturen und die Verdinglichung der Natur, die Parallelen zu den Machtstrukturen in der Gesellschaft aufweisen. Die Diskussion hob hervor, dass sowohl Natur als auch bestimmte gesellschaftliche Gruppen oft objektifiziert werden, um Machtverhältnisse zu stabilisieren.
+
+Es wurde auch das Argument der Naturautorität angesprochen, das besagt, dass Männer von Natur aus explorative Jäger und Frauen häusliche Sammler seien. Solche Argumente nutzen biologische Erklärungen, um bestehende Geschlechterrollen zu legitimieren und Machtstrukturen zu naturalisieren.
+
+Ein Missverständnis, das aufgeklärt werden muss, ist die weit verbreitete Annahme, dass Feminismus nur für Frauen ist. Die Diskussion betonte, dass Feminismus auch Männer einbeziehen muss, um das Patriarchat zu überwinden. Falsche Vorstellungen über toxische Männlichkeit, die oft als ein Versuch missverstanden werden, Männlichkeit generell zu verbieten, wurden angesprochen. Stattdessen argumentiert der Feminismus, dass auch Männer unter den traditionellen Geschlechterrollen leiden. Eine verstärkte Aufklärung darüber ist erforderlich, um das Verständnis für diese Zusammenhänge zu fördern.
+
 
 ## 8. Sitzung 12.06.2024
 
-Textgrundlage: Philippe Descola: Jenseits von Natur und Kultur (2005)
+**Textgrundlage: Philippe Descola: Jenseits von Natur und Kultur (2005)**
+
+
+>Die Autonomie, die die Anthropologie innerhalb der Gelehrtenrepublik beansprucht, gründet somit auf dem Glauben, daß alle Gesellschaften Kompromisse zwischen der Natur und der Kultur sind, deren besondere Ausdrucksformen es zu untersuchen gilt und deren Entstehungs- oder Verteilungsregeln man, sofern möglich, entdecken muß. Kurz, di Dualität der Welt ist zur originären Herausforderung geworden, der diese Wissenschaft gerecht zu werden versuchte, indem sie all ihre Findigkeit aufbot, um den Abstand zwischen den beiden Realitäten, die sie in ihrer Wiege vorgefunden hatte, zu verringern.
+
+(S. 129f.)
+
+
+>[...] entweder wird die Kultur von der Natur geformt, ob diese nun aus Genen, Instinkten, neuronaen Netzen oder geographischen Zwängen besteht, oder aber die Natur gewinnt Form und Relief nur als potentieller Vorrat an Zeichen und Symbolen, aus dem die Kultur schöpft. In all seiner Schärfe formuliert, eriinert dieser Gegensatz an bestimmte Züge der alten scholastischen Unterscheidung zwischen der schaffenden Natur (*natura naturans*) und der geschaffenen Natur (*natura naturata*), der Spinoza zu neuem Leben verhalf.
+
+(S. 130f.)
+
+
+### Protokoll von Silas Henke
+
+Das Thema der achten Sitzung befasst sich mit den (Nicht Wesentlichen) Naturverhältnissen aus der Sicht der Anthropologie I.I., als Grundlage hierfür gilt der Text Philippe Descolas *Jenseits von Natur und Kultur* (2005/2021, S.107-147).
+
+Die Sitzung begann mit einem Rückblick auf die vorherige Woche, in der das Thema
+Natur, Technik & Feministische Wissenschaftskritik II. im Mittelpunkt stand. Dabei
+wurde auf Donna J. Haraways Werk *Monströse Versprechen. Die Gender und Technologie Essays* (1995/2017) zu rückgegriffen, in welchem sie insbesondere ihre Kritik an traditionellen Naturverständnissen und Geschlechterrollen äußert. Haraway fordert ein neues Verhältnis zur Natur und betont die subversive Kraft der Monstrosität als Widerstand gegen restriktive Normen. Das Seminar diskutierte auch die Übertragung menschlicher Eigenschaften auf Tiere, die Verdinglichung der Natur und gesellschaftliche
+Machtstrukturen sowie die Notwendigkeit, feministische Ansätze in Wissenschaft und Technologie zu integrieren, um bestehende Ungleichheiten zu reduzieren.
+
+Im Anschluss folgte die Übergabe an das Referat, beginnend mit einer kurzen biographischen Vorstellung Philippe Descolas, wonach der Schwerpunkt anschließend auf dem 3. Kapitel „Die große Trennung“ lag bezüglich der Autonomien der Physis, der Schöpfung, der Natur, der Kultur, des Dualismus und der Welten. Abschließend folgte die Überleitung in eine freie Diskussion im Plenum.
+
+Das Werk *Jenseits von Kultur und Natur* von Philippe Descola, erstmals 2005 veröffentlicht und auf seinen Forschungen im Amazonas basierend, untersucht tiefgreifend den Dualismus von Kultur und Natur. Descola führt vier grundlegende Ontologien ein – Totemismus, Naturalismus, Animismus und Analogismus – und zeigt auf, wie diese unterschiedliche Perspektiven auf Natur und Kultur in verschiedenen Gesellschaften ermöglichen. Descola beleuchtet in seinem Werk verschiedene Konzepte der Autonomie: Die "Autonomie der Physis" beschreibt die frühen mythologischen Erklärungen antiker Autoren wie Hesiod und Homer, die später von rationalen Erklärungen der Vorsokratiker abgelöst wurden. Die "Autonomie der Schöpfung" behandelt die christlich geprägte Idee, dass die Natur von Gott geschaffen wurde, aber nicht mit seiner Präsenz erfüllt ist, was den Menschen über die Natur erhaben macht.
+
+Die "Autonomie der Natur" betont die Idee, dass die Natur ein von Menschen unabhängiger Teil der Welt ist, der durch den westlichen Naturalismus und wissenschaftliche Entdeckungen verstärkt wurde. Die "Autonomie der Kultur" diskutiert verschiedene Definitionen von Kultur und betont deren Einzigartigkeit und Komplexität, wie sie von Anthropologen wie Edward B. Tylor und Franz Boas geprägt wurden.
+
+Descola untersucht auch die "Autonomie des Dualismus", indem er die Wechselwirkungen zwischen Natur und Kultur sowie deren Einfluss auf menschliches Verhalten analysiert. Er hinterfragt die Grenzen dieses Dualismus und verweist auf die Notwendigkeit einer differenzierteren Betrachtung, um die Komplexität der menschlichen Wahrnehmung und Interaktion mit der Welt zu verstehen. Die Diskussionen in Descolas Werk reflektieren kritisch die historische Entwicklung des Naturbegriffs seit der Aufklärung sowie die anthropologischen und philosophischen Perspektiven auf die Trennung von Natur und Kultur. Sie enden mit der Frage, ob diese Trennung wirklich existiert und wie sie sich auf wissenschaftliche Praxis und menschliches Selbstverständnis auswirkt. Insgesamt zeigt Descola, dass die Dualismen von Natur und Kultur tief in kulturellen Denkweisen verwurzelt sind und sowohl trennende als auch verbindende Funktionen haben können. Sein Werk fordert dazu auf, die Wechselwirkungen zwischen diesen Konzepten genauer zu untersuchen, um neue Perspektiven auf die menschliche Beziehung zur Welt zu gewinnen.
+
+**Diskussion**
+
+Es scheint, als ob die Diskussion um die Trennung zwischen Kultur und Natur auf mehreren Ebenen geführt wird. Historisch betrachtet hat sich diese Trennung durch wissenschaftliche und philosophische Entwicklungen herausgebildet, insbesondere im 17. Jahrhundert, als die Naturwissenschaften begannen, sich von der Theologie zu lösen und eine eigenständige Methodik zu entwickeln. Diese Entwicklung führte dazu, dass Natur und Kultur als völlig unterschiedliche Bereiche angesehen wurden, wobei die Natur als physikalisch messbar und die Kultur als interpretativ und gesellschaftlich geprägt betrachtet wurde.
+
+Einige Denker, wie Descola, argumentieren jedoch dafür, dass diese Trennung keine universelle Konstante ist, sondern eher durch spezifische historische und kulturelle Rahmenbedingungen entstanden ist. Sie betonen, dass viele Gesellschaften eine andere Sichtweise auf die Verbindung zwischen Menschen und Umwelt haben, die nicht zwangsläufig in die Natur-Kultur-Dichotomie passt. Darüber hinaus wird diskutiert, dass die Trennung zwischen Natur und Kultur auch ideologische und politische Zwecke erfüllt. Beispielsweise könnte sie verwendet werden, um die menschliche Herrschaft über die Natur zu legitimieren oder um bestimmte soziale Ordnungen zu rechtfertigen. In der Anthropologie wird versucht, diese Dualität zu überwinden oder zumindest kritisch zu hinterfragen, indem man die vielfältigen Wechselwirkungen zwischen Menschen und ihrer Umwelt untersucht, ohne strikte Trennlinien zu ziehen.
+
+Zusammenfassend lässt sich sagen, dass die Trennung zwischen Kultur und Natur kein inhärentes oder universelles Phänomen ist, sondern durch historische, wissenschaftliche und ideologische Prozesse geformt wurde, die verschiedene kulturelle Perspektiven und Interpretationen der Welt beeinflusst haben.
+
 
 ## 9. Sitzung 19.06.2024
 
-Textgrundlage: Philippe Descola: Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen (2014)
+Textgrundlage: Philippe Descola: Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen. In: ZMK Zeitschrift für Medien- und Kulturforschung. Synchronisation, Jg. 5, Nr. 2,
+183– 207.
+
+### Protokoll von Erik Götsche
+
+**Einstieg**
+
+In der 9. Sitzung des Seminars wird der Text Philippe Descolas “Von Ganzheiten zu
+Kollektiven: Wege zu einer Ontologie sozialer Formen” (2014) behandelt. Es ist der zweite
+Text Philippe Descolas, weshalb die Sitzung teilweise inhaltlich auf der vorherigen aufbaut.
+
+
+**Rückblick der letzten Sitzung:**
+
+
+Die Sitzung beginnt mit einer Zusammenfassung der vorherigen Sitzung zum Text „Jenseits
+von Natur und Kultur“ (2005). In diesem untersucht Philippe Descola den Dualismus und die
+historische Trennung zwischen Natur und Kultur, sowie die kulturellen Denkweisen und wie
+diese darauf einen Einfluss haben. Er plädiert dafür, vor allem Wechselwirkungen zwischen
+den beiden Konzepten genauer zu untersuchen.
+
+Descola setzt sich außerdem kritisch mit der westlichen Konzeption von Kultur auseinander
+und führt den Begriff der Ontologien ein, die er in vier Kategorien unterscheidet:
+Totemismus, Naturalismus, Animismus und Analogismus. Diese Sichtweisen und Begriffe
+werden auch im zweiten Text in dieser Sitzung erneut aufgegriffen und genauer behandelt.
+Nach dem Rückblick zur letzten Sitzung erfolgt die Übergabe an das Referat.
+
+
+**Vortrag:**
+
+
+Philippe Descolas Werk speist sich aus seinen Erfahrungen in Amazonien, wo er mit
+Menschen lebte, die ein Leben ohne für Anthropologie essentielle Konzepte wie Autorität,
+Ökonomie oder Politik lebten. Unter anderem aus dieser Perspektive heraus entstand der
+Text “Von Ganzheiten zu Kollektiven: Wege zu einer Ontologie sozialer Formen” (Descola,
+2014).
+
+Descola stellt in seinem Text eine neue Sichtweise für Gesellschaft mit dem Begriff der
+Kollektive auf. Er tut dies, indem er diese gegen bestehende Sichtweisen in der
+Anthropologie stellt und kritisiert. In den bestehenden Theorien Durkenheims wird
+Gesellschaft meistens als ein Ganzes betrachtet. Die Gesellschaft ist in dieser Konzeption
+eine nicht-menschliche Entität mit allerdings menschlichen Zügen. Diese Züge oder
+Eigenschaften sind in jedem Individuum der Geselschaft angelegt und machen das
+Individuum aus. Descola kritisiert an dieser Sichtweise, dass das Individuum damit
+vollkommen auf die Rolle in der Gesellschaft reduziert wird und somit keine Veränderbarkeit
+innehält.
+
+Stattdessen nutzt Descola den Begriff des Schemas. Mit dem Schema ist eine
+Schematisierung der Erfahrungen eines Kollektivs gemeint, die dann beobachtet werden kann
+und die Schnittstelle zwischen Praxis und bietet. Das Schema Prädikation wird verwendet,
+um zwei Achsen aufzustellen: Körperlichkeit und Innerlichkeit. An beiden Achsen wird
+zwischen Kontinuität und Diskontinuität unterschieden. Bei Körperlichkeit wird
+unterschieden, ob physische Körper der Konzeption der Kollektive nach durch die gleichen
+natürlichen Regeln bestimmt sind, oder der Körper die Unterschiede der Entitäten bestimmt.
+Innerlichkeit bestimmt, ob die Seele aller Entitäten gleich ist oder sie unterscheiden werden
+können, meistens zwischen Mensch und Tier.
+
+Entlang dieser zwei Achsen kann zwischen vier Ontologien unterschieden werden, die
+Stellung zu der Kontinuität oder Diskontinuität von Körperlichkeit und Innerlichkeit
+definieren: Animismus, Totemismus, Naturalismus und Analogismus. Das zweite Schema,
+Bindung, wird verwendet, um die Beziehungsmuster innerhalb dieser Ontologien zwischen
+gleichwertigen Termen (Tausch, Raub, Gabe) und hierarchischen Termen (Produktion,
+Protektion, Transmission) zu unterscheiden.
+
+Philippe Descola bringt mit seinem Ansatz der vergleichenden Ontologie eine theoretische
+Grundlage ein, die die Analyse von Komponenten vereinfachen und das Verständnis für
+Kollektive erweitern soll. Im Fokus steht dabei auch, von einem rein westlichen, holistischen
+Verständnis von Natur und Kultur abzukommen und Kulturen neutraler und nicht nur in ihrer
+Ganzheit zu betrachten.
+
+
+**Fragen und offene Diskussion:**
+
+
+Nach der Präsentation wird eine Fragen- und Diskussionsrunde eröffnet.
+Dabei wird die schwere Zugänglichkeit zu den im Text formulierten Kollektiven aufgebracht.
+Aus westlicher Sicht ist es schwierig, sich in andere ontologische Ansätze hineinzuversetzen.
+Während Texte hilfreich sein könnten, die von Personen aus den verschiedenen ontologischen
+Kollektiven geschrieben wurden, schreibt Descola selbst im Text, dass Kultur erfahren
+werden muss.
+
+Weiter kommt in der Konversation das Buch “An das Wilde glauben” auf, in dem eine
+Forscherin von einem Bären attackiert wird und diesen Kampf um das Überleben später als
+Konversation versteht. Auch wie sie nach dem Ereignis Respekt und Achtung
+entgegengebracht bekam, zeigt, wie die ontologischen Ansätze unterschiedlicher
+Gesellschaften das Verhalten der Individuen beeinflussen.
+
+Als eine weitere Frage stellte sich, ob Gesellschaften ontologisch in einem Nullpunkt
+zwischen den Achsen der Körperlichkeit und Innerlichkeit liegen können. Während dieser
+Nullpunkt metaphysisch gesucht werden kann, existiert er real jedoch nicht, da diese
+fundamentalen Ansichten eine Positionierung innerhalb der Kollektive notwendig machen.
 
 ## 10. Sitzung 26.06.2024
 
